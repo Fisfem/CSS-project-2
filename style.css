@@ -1,0 +1,48 @@
+
+*
+{
+
+background-color: #F3EAE3;
+
+}
+
+.inner_cycle
+{
+  margin: 200px;
+  border-radius: 10px;
+  border-style: solid black;
+  width: 50px;
+  
+}
+
+
+.perfumer
+{
+  float: left;
+  position: relative;
+  
+}
+
+.dphase
+{
+background-color: white;
+backface-visibility: hidden;
+width: 400px;
+margin-left: 400px;
+padding: 20px;
+text-align: center;
+text
+}
+.money1
+{
+  color: aqua;
+ font-size: x-large;
+}
+
+.money2
+{
+  text-decoration: line-through;
+  margin-left: 200px;
+  margin-top: -40px;
+
+}
